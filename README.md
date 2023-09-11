@@ -44,7 +44,7 @@ alist是一款支持多网盘挂载的Go语言Alist驱动程序，可在多种�
 <table width="100%" border="0" align="center"><tr><td align="center">
 <b id="nr"><span class="nav-item"><a class="nav-link" href="https://jinenyy.vip">
 <i class="fa-solid fa-shield-check" style="color:#3232CD;" aria-hidden="true"></i>
-<font color="#663333">进恩影音工作室官网</font><tr> </td></tr></table><style>
+<font color="#663333">进恩影音工作室官网</font><tr> </td></tr></table>
 
 
 
