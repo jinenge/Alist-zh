@@ -40,6 +40,9 @@ alist是一款支持多网盘挂载的Go语言Alist驱动程序，可在多种�
 </div>
 
 ---
+<!--进恩哥在线时间--><style>
+#clock{margin:10px auto;border: 8px double #1A1A1A;width: 390px;height: 70px;line-height: 60px;text-align: center;font: bold;color: 000000;}</style><script>function showTime(clock){var now = new Date();var year = now.getFullYear();var month= now.getMonth();var day = now.getDate();var hour = now.getHours();var minu = now.getMinutes();var second = now.getSeconds();month = month+1;var arr_work = new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");var week = arr_work[ now.getDay()];var time = year+"年"+month+"月"+day+"日 "+ week+" "+hour+":"+minu+":"+second;clock.innerHTML=" "+time;}window.onload = function(){var clock = document.getElementById("clock");window.setInterval("showTime(clock)",1000);}</script></head><body><div id ="clock"></div></body></html><br />
+
 
 ## 下载地址
    <br>
