@@ -40,13 +40,12 @@ alist是一款支持多网盘挂载的Go语言Alist驱动程序，可在多种�
 </div>
 
 ---
-<!--版权归属-->
+
 <table width="100%" border="0" align="center"><tr><td align="center">
 <b id="nr"><span class="nav-item"><a class="nav-link" href="https://jinenyy.vip">
 <i class="fa-solid fa-shield-check" style="color:#3232CD;" aria-hidden="true"></i>
 <font color="#663333">进恩影音工作室官网</font><tr> </td></tr></table><style>
-/*进恩哥七彩字*/
-#nr{ font-size:15px; margin: 0; background: -webkit-linear-gradient(left, #ffffff, #ff0000 6.25%, #ff7d00 12.5%, #ffff00 18.75%, #00ff00 25%, #00ffff 31.25%, #0000ff 37.5%, #ff00ff 43.75%, #ffff00 50%, #ff0000 56.25%, #ff7d00 62.5%, #ffff00 68.75%, #00ff00 75%, #00ffff 81.25%, #0000ff 87.5%, #ff00ff 93.75%, #ffff00 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% 100%; animation: masked-animation 2s infinite linear; } @keyframes masked-animation { 0% { background-position: 0 0; } 100% { background-position: -100%, 0; } }</style></b>
+
 
 
 ## 下载地址
