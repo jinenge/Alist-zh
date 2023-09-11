@@ -42,7 +42,8 @@ alist是一款支持多网盘挂载的Go语言Alist驱动程序，可在多种�
 ---
 
 ## 下载地址
-  <a href="https://github.com/Xhofe/alist/releases">
+   <br></bd>
+   <a href="https://github.com/Xhofe/alist/releases">
     <img src="https://img.shields.io/github/release/Xhofe/alist" alt="latest version" />
   </a>
 
