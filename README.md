@@ -40,9 +40,13 @@ alist是一款支持多网盘挂载的Go语言Alist驱动程序，可在多种�
 </div>
 
 ---
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>进恩影音工作室官网</title>
-<!--进恩哥在线时间--><style>
-#clock{margin:10px auto;border: 8px double #1A1A1A;width: 390px;height: 70px;line-height: 60px;text-align: center;font: bold;color: 000000;}</style><script>function showTime(clock){var now = new Date();var year = now.getFullYear();var month= now.getMonth();var day = now.getDate();var hour = now.getHours();var minu = now.getMinutes();var second = now.getSeconds();month = month+1;var arr_work = new Array("星期日","星期一","星期二","星期三","星期四","星期五","星期六");var week = arr_work[ now.getDay()];var time = year+"年"+month+"月"+day+"日 "+ week+" "+hour+":"+minu+":"+second;clock.innerHTML=" "+time;}window.onload = function(){var clock = document.getElementById("clock");window.setInterval("showTime(clock)",1000);}</script></head><body><div id ="clock"></div></body></html><br />
+<!--版权归属-->
+<table width="100%" border="0" align="center"><tr><td align="center">
+<b id="nr"><span class="nav-item"><a class="nav-link" href="https://jinenyy.vip">
+<i class="fa-solid fa-shield-check" style="color:#3232CD;" aria-hidden="true"></i>
+<font color="#663333">进恩影音工作室官网</font><tr> </td></tr></table><style>
+/*进恩哥七彩字*/
+#nr{ font-size:15px; margin: 0; background: -webkit-linear-gradient(left, #ffffff, #ff0000 6.25%, #ff7d00 12.5%, #ffff00 18.75%, #00ff00 25%, #00ffff 31.25%, #0000ff 37.5%, #ff00ff 43.75%, #ffff00 50%, #ff0000 56.25%, #ff7d00 62.5%, #ffff00 68.75%, #00ff00 75%, #00ffff 81.25%, #0000ff 87.5%, #ff00ff 93.75%, #ffff00 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-size: 200% 100%; animation: masked-animation 2s infinite linear; } @keyframes masked-animation { 0% { background-position: 0 0; } 100% { background-position: -100%, 0; } }</style></b>
 
 
 ## 下载地址
